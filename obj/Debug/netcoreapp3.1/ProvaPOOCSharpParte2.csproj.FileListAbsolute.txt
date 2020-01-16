@@ -1,0 +1,11 @@
+C:\Users\EJDH\source\repos\ProvaPOOCSharpParte2\ProvaPOOCSharpParte2\obj\Debug\netcoreapp3.1\ProvaPOOCSharpParte2.csprojAssemblyReference.cache
+C:\Users\EJDH\source\repos\ProvaPOOCSharpParte2\ProvaPOOCSharpParte2\obj\Debug\netcoreapp3.1\ProvaPOOCSharpParte2.AssemblyInfoInputs.cache
+C:\Users\EJDH\source\repos\ProvaPOOCSharpParte2\ProvaPOOCSharpParte2\obj\Debug\netcoreapp3.1\ProvaPOOCSharpParte2.AssemblyInfo.cs
+C:\Users\EJDH\source\repos\ProvaPOOCSharpParte2\ProvaPOOCSharpParte2\bin\Debug\netcoreapp3.1\ProvaPOOCSharpParte2.exe
+C:\Users\EJDH\source\repos\ProvaPOOCSharpParte2\ProvaPOOCSharpParte2\bin\Debug\netcoreapp3.1\ProvaPOOCSharpParte2.deps.json
+C:\Users\EJDH\source\repos\ProvaPOOCSharpParte2\ProvaPOOCSharpParte2\bin\Debug\netcoreapp3.1\ProvaPOOCSharpParte2.runtimeconfig.json
+C:\Users\EJDH\source\repos\ProvaPOOCSharpParte2\ProvaPOOCSharpParte2\bin\Debug\netcoreapp3.1\ProvaPOOCSharpParte2.runtimeconfig.dev.json
+C:\Users\EJDH\source\repos\ProvaPOOCSharpParte2\ProvaPOOCSharpParte2\bin\Debug\netcoreapp3.1\ProvaPOOCSharpParte2.dll
+C:\Users\EJDH\source\repos\ProvaPOOCSharpParte2\ProvaPOOCSharpParte2\bin\Debug\netcoreapp3.1\ProvaPOOCSharpParte2.pdb
+C:\Users\EJDH\source\repos\ProvaPOOCSharpParte2\ProvaPOOCSharpParte2\obj\Debug\netcoreapp3.1\ProvaPOOCSharpParte2.dll
+C:\Users\EJDH\source\repos\ProvaPOOCSharpParte2\ProvaPOOCSharpParte2\obj\Debug\netcoreapp3.1\ProvaPOOCSharpParte2.pdb
